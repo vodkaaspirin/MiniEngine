@@ -15,7 +15,7 @@ Project: Mini 3D Engine
 Version: 1.1.2015-05-20.1700
  
 Author: LI Zheng
-E-Mail: lizheng AT gdut.edu.cn
+E-Mail: lizheng@gdut.edu.cn
 Affiliation: School of Computers, Guangdong University of Technology
 
 Licensed under the GNU GPLv3. See http://www.gnu.org/copyleft/gpl.html.
