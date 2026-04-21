@@ -1,4 +1,4 @@
-# Computer-Graphics-2024A
+# MiniEngine-Computer-Graphics-2024A
 3D graphic program powered by GlutFree mini engine.
 
 ## 开源协议与致谢
